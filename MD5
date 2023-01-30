@@ -1,0 +1,8 @@
+25779d4b94099b02cb0a7451bfcc929e *DESCRIPTION
+e6a95017eba42e9f23c8c69a35cec3e7 *LICENSE
+b36eac837d31631c402318ce343ad0d5 *NAMESPACE
+b0556c32900117b5a117cfcf2f7412f2 *R/correct_model_levels.R
+cdbe26aeb13383339dcde51520511c7c *R/strict_left_join.R
+228c10023261888ccd82e01265e31dec *README.md
+a25bc8d7ccdaaac9ac1b3f655c02894c *man/correct_model_levels.Rd
+740dfb4377560c5f486cfc7b741e7b65 *man/strict_left_join.Rd
